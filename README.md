@@ -4,7 +4,9 @@
 
 I build responsive web applications, REST APIs, and practical software solutions that solve real-world business problems.
 
-I have a BSc in Electrical and Computer Engineering from Jimma University and professional experience supporting business operations through technology.
+I have professional experience supporting business operations through technology, with a focus on building practical software solutions.
+
+My focus is on building reliable, user-friendly applications with clean architecture, maintainable code, and practical business value.
 
 ## Technical Skills
 
@@ -19,7 +21,7 @@ I have a BSc in Electrical and Computer Engineering from Jimma University and pr
 - REST API Development
 - Authentication and Authorization
 
-**Database**
+**Databases**
 - MongoDB
 - MySQL
 
@@ -31,27 +33,42 @@ I have a BSc in Electrical and Computer Engineering from Jimma University and pr
 
 ## Featured Projects
 
-### Domestic Recruitment CV Studio
+### 1. Tesnim CV Studio
 
-A web-based application for collecting applicant information and generating structured, printable recruitment documents.
+A bilingual candidate registration and printable CV generation platform designed for domestic manpower recruitment agencies.
 
-- Technologies: React, TypeScript
+- **Technologies:** React, TypeScript, Vite
 - [Live Demo](https://domestic-recruitment-cv-1kn4-chi.vercel.app/)
 - [Source Code](https://github.com/amir-susa/domestic-recruitment-cv)
 
-### Personal Finance Dashboard
+### 2. Task Manager
 
-An API-driven personal finance dashboard.
+A responsive task management application for organizing tasks, setting priorities, and tracking progress.
+
+- [Live Demo](https://task-manager-kappa-five-49.vercel.app/)
+- [Source Code](https://github.com/amir-susa/task-manager)
+
+### 3. Personal Finance Dashboard
+
+An API-driven dashboard for presenting and managing personal financial information.
 
 - [Live Demo](https://amir-susa.github.io/Personal-Finance-Dashboard-API-Driven-/)
 - [Source Code](https://github.com/amir-susa/Personal-Finance-Dashboard-API-Driven-)
 
-### Recruitment Process Tracking System
+## Currently Working On
 
-Currently in development — a business workflow application designed to organize and track recruitment processes.
+**Recruitment Process Tracking System**
+
+Developing a business workflow application for tracking recruitment candidates, process stages, tasks, and operational activities.
+
+## Education
+
+**BSc in Electrical and Computer Engineering**
+
+Jimma University
 
 ## Connect With Me
 
-- **Portfolio:** https://amir-portfolio-brown.vercel.app/
-- **LinkedIn:** https://www.linkedin.com/in/amir-rahemeto-280a74246
-- **GitHub:** https://github.com/amir-susa
+- **Portfolio:** [amir-portfolio-brown.vercel.app](https://amir-portfolio-brown.vercel.app/)
+- **LinkedIn:** [Amir Rahemeto](https://www.linkedin.com/in/amir-rahemeto-280a74246)
+- **GitHub:** [amir-susa](https://github.com/amir-susa)
